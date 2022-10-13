@@ -24,7 +24,7 @@ ui <- navbarPage("ViewPoint report table generator",
                           br(),
                           h4("Note:"),
                           h5("• All columns require a label; excess rows will be ingored"),
-                          h5("• To wrap text in a cell or column label, simply insert '</br>' at desired linebreaks, which render in the formatted table below"), 
+                          h5("• To wrap text in a column LABEL, simply insert '</br>' at desired linebreaks, which render in the formatted table below"), 
                           
                           br(),
                           br(),

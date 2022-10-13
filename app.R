@@ -30,7 +30,6 @@ ui <- navbarPage("ViewPoint report table generator",
                           br(),
                           
                           
-                          
                           DT::dataTableOutput("mytable"),
                           
                           

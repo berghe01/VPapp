@@ -82,7 +82,7 @@ ui <- navbarPage("ViewPoint report table generator",
                                 "The app is neither endorsed nor distributed by GE. It was created as a simple adjunt to improve upon my own reports while using GE ViewPoint software.", 
                                 tags$br(), 
                                 "The code for this app can be found ",
-                                tags$a(href = "https://github.com/berghe01/jouRnal_club/blob/main/app.R", "here. ", target = "_blank"), 
+                                tags$a(href = "https://github.com/berghe01/VPapp/blob/main/app.R", "here. ", target = "_blank"), 
                                 tags$br() 
                               )
                             )
